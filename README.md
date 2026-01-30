@@ -12,7 +12,7 @@ It can detect weapons (such as guns and knives) from live webcam feed or video f
 ## 👨‍💻 Authors
 
 - **Satyajeet Kumar**  
-- **Ritanshu Kumar Singh**
+- **Ritanshu Kumar **
 
 ---
 
@@ -49,3 +49,15 @@ Real-Time-Weapon-Detection-Using-Yolov8/
 ├── needs.txt                     # Python dependencies (requirements)
 ├── weapon_detection.png          # Demo/screenshot image
 └── New Text Document.txt         # Misc notes (if any)
+
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/7435e504-67b1-4d72-b5b3-e82a9b31292d
+
+
+
