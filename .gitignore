@@ -5,3 +5,23 @@ __pycache__/
 *.so
 *.dylib
 site-packages/
+
+# Large model files
+*.pt
+*.pth
+*.weights
+*.onnx
+
+# Media files
+*.mp3
+*.wav
+*.mp4
+*.avi
+
+# Database
+*.sqlite3
+db.sqlite3
+
+# Django media files
+media/
+weapon_detection_server/media/
