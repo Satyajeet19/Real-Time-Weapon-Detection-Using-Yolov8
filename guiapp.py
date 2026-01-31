@@ -9,6 +9,7 @@ import io
 import datetime
 import pygame
 
+
 # Initialize YOLO model
 model = YOLO('best.pt')
 pygame.mixer.init()
