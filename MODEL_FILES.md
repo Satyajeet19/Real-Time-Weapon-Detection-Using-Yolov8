@@ -16,6 +16,7 @@ Download the original trained model from the source repository or train your own
 The base `yolov8m.pt` model will be automatically downloaded by ultralytics when you first run the detection scripts.
 
 ### Option 3: Train Your Own Model
+
 ```bash
 # Prepare your dataset in the required format
 # Then run:
