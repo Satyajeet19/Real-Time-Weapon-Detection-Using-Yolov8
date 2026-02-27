@@ -8,7 +8,8 @@ from PIL import Image, ImageTk
 import io
 import datetime;
 
-# Initialize YOLO model
+
+
 model = YOLO('best.pt')
 
 # Webcam setup
